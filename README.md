@@ -1,2 +1,3 @@
 # my-java-learning-progress-lol
-Java stuff ig
+
+And yeah going to SMK RUS motivated me to create this
