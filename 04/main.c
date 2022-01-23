@@ -9,11 +9,11 @@ int main() {
 
  int i;
 
- for (i=0; i <= size; i++) {
+ for (i=0; i < size; i++) {
   intarr[i] = i + 1;
  }
 
- for (i=0; i <= size; i++) {
+ for (i=0; i < size; i++) {
   printf("The value of intarr[%d] is: %d\n", i, intarr[i]);
  } 
 }
