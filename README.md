@@ -6,4 +6,4 @@ I forgot one of the reasons why i hate Github is that i have to use personal acc
 
 I wish i can make more than 5 repositories in Gitea
 
-I'm using [www.learnjavaonline.org]https://www.learnjavaonline.org/ for the tutorial btw
+I'm using [www.learnjavaonline.org](https://www.learnjavaonline.org/) for the tutorial btw
