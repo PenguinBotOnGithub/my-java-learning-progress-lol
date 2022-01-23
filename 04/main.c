@@ -3,7 +3,7 @@
 int main() {
  int intarr[9999];
 
- int size = sizeof intarr / sizeof intarr[0]; /* Using a compiler extension to calculate the length of an array mfw */
+ int size = sizeof intarr / sizeof intarr[0]; /* Using a compiler extension to calculate the length of an array mfw, and yes i got this from a random tutorial */
 
  /*printf("%d", size);*/
 
