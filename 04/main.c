@@ -14,6 +14,6 @@ int main() {
  }
 
  for (i=0; i <= size; i++) {
-  printf("The value of intarr[%d] is: %d\n", i, i);
+  printf("The value of intarr[%d] is: %d\n", i, intarr[i]);
  } 
 }
