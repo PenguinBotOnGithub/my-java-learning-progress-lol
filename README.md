@@ -1,6 +1,6 @@
 # my-java-learning-progress-lol
 
-And yeah going to SMK RUS motivated me to create this
+And yeah registering to SMK RUS motivated me to create this
 
 I forgot one of the reasons why i hate Github is that i have to use personal access tokens
 
